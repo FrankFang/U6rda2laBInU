@@ -128,7 +128,7 @@
       }
       &-图1, &-图2 {
         .legend {height: px(40); display: flex; align-items: center;
-          justify-content: center; flex-wrap: wrap;
+          justify-content: center; flex-wrap: wrap; padding-right: px(10);
           > span {display: inline-block; width: px(16); height: px(10);
             border-radius: px(2); margin: 0 px(10);}
           .male {background: #33a4fa;}
